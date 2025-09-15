@@ -5,4 +5,5 @@ namespace Prueba2.Data;
 
 public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
+    public DbSet<Autos> Autos { get; set; }
 }
