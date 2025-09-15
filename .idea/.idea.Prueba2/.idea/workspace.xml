@@ -8,11 +8,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cf34dd9-94da-46cd-ab56-260923a4b0e2" name="Changes" comment="" />
+    <list default="true" id="5cf34dd9-94da-46cd-ab56-260923a4b0e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prueba2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prueba2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prueba2/Controllers/HelicopteroControllers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Prueba2/Controllers/HelicopteroControllers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prueba2/Data/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Prueba2/Data/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prueba2/Models/Helicoptero.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Prueba2/Models/Helicoptero.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,12 +58,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeInspectionSettingsId",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -105,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757897595817</updated>
-      <workItem from="1757897598080" duration="2114000" />
+      <workItem from="1757897598080" duration="4112000" />
     </task>
     <task id="LOCAL-00001" summary="crear proyecto base">
       <option name="closed" value="true" />
